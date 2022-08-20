@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89f068f2-44a4-493f-8017-e7c0d0db749a" name="Changes" comment="1 probate" />
+    <list default="true" id="89f068f2-44a4-493f-8017-e7c0d0db749a" name="Changes" comment="2 PRUE BA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Dd8rdU1ENEY0Xb1yB9TbmSL32t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,7 +42,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661027009252</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2 PRUE BA">
+      <created>1661032271267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661032271267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,6 +65,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 probate" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 probate" />
+    <MESSAGE value="2 PRUE BA" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 PRUE BA" />
   </component>
 </project>
