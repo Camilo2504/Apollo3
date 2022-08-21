@@ -1,6 +1,6 @@
 public class Main {
-
-    public static void main(String[] args) {
+    public static void main(String[] args){
+        System.out.println("Juan Pablo Gasca");
         System.out.println("1 prueba");
         System.out.println(" miguel");
 
